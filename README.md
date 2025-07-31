@@ -136,6 +136,7 @@ Ensure the following environment variables are set in production:
 4. Test thoroughly
 5. Submit a pull request
 
+
 ## License
 
-This project is for educational purposes only.
+This project is built with love by Johntoby.
